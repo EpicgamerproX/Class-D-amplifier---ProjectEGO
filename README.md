@@ -27,7 +27,7 @@ Not useful for learning Class D fundamentals.
 Option 4 — Microcontroller PWM
 Amazing later.
 
------------------------------------------------------------------------------------
+----
 
 (Since i chose to build a Op-amp relaxation oscillator)
 
@@ -47,6 +47,7 @@ The relaxation oscillator frequency formula determines the oscillation rate base
 
 Here, R1 and R2 also play a critical role in determining the frequency of the output waveform. This is because they control the voltage thresholds that the C1 needs to charge up to. For example, if the threshold is set to 5V, then C1 only needs to charge and discharge up to 5V and 5V, respectively. On the other hand, if the threshold is set to 10V, then C1 is needed to charge and discharge to 10V and -10V.
 
-# f = 1 / 2 x R3 x C1 x ln (1 + k / 1 - k)
 ---
+# f = 1 / 2 x R3 x C1 x ln (1 + k / 1 - k)
+
 # Here, K = R2 / R1 + R2
