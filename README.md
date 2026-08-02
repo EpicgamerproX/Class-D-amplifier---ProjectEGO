@@ -40,7 +40,7 @@ It must provide a periodic signal or repetitive signal like a Triangular, Square
 The circuit of a relaxation oscillator must be a nonlinear one. That means the design of the circuit must involve semiconductor devices like a Transistor, MOSFET or OP-AMP.
 The circuit design must also involve an energy-storing device like a Capacitor or Inductor, which charges and discharges continuously to produce a cycle. The frequency or period of oscillation for such an oscillator depends on the time constant of its respective capacitive or inductive circuit.
 
-<img width="220" height="212" alt="Screenshot 2026-08-02 060935" src="https://github.com/user-attachments/assets/69ec2842-c4e8-490c-b5a8-85b0506e6128" />
+<img width="330" height="318" alt="Screenshot 2026-08-02 060935" src="https://github.com/user-attachments/assets/69ec2842-c4e8-490c-b5a8-85b0506e6128" />
 
 ## Relaxation Oscillator Frequency Formula and Calculations
 The relaxation oscillator frequency formula determines the oscillation rate based on circuit component values. Obviously, the frequency of oscillation depends on the time constant of C1 and R3 in the circuit. Higher values of C1 and R3 will lead to longer charge and discharge rates, thus producing lower frequency oscillations. Similarly, smaller values will produce higher frequency oscillations.
