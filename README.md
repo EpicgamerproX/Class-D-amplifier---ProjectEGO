@@ -1,6 +1,6 @@
 # Class-D-amplifier : ProjectEGO
 
-## The individual blocks—oscillator, comparator, MOSFET switching, and LC filter
+## The individual blocks — oscillator, comparator, MOSFET switching, and LC filter
 
 ### Oscillator:
 Option 1 — 555 Timer
