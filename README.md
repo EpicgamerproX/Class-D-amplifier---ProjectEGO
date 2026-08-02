@@ -42,3 +42,10 @@ The circuit design must also involve an energy-storing device like a Capacitor o
 
 <img width="550" height="531" alt="Screenshot 2026-08-02 060935" src="https://github.com/user-attachments/assets/69ec2842-c4e8-490c-b5a8-85b0506e6128" />
 
+## Relaxation Oscillator Frequency Formula and Calculations
+The relaxation oscillator frequency formula determines the oscillation rate based on circuit component values. Obviously, the frequency of oscillation depends on the time constant of C1 and R3 in the circuit. Higher values of C1 and R3 will lead to longer charge and discharge rates, thus producing lower frequency oscillations. Similarly, smaller values will produce higher frequency oscillations.
+
+Here, R1 and R2 also play a critical role in determining the frequency of the output waveform. This is because they control the voltage thresholds that the C1 needs to charge up to. For example, if the threshold is set to 5V, then C1 only needs to charge and discharge up to 5V and 5V, respectively. On the other hand, if the threshold is set to 10V, then C1 is needed to charge and discharge to 10V and -10V.
+
+# f = 1 / 2 x R3 x C1 x ln (1 + k / 1 - k)
+## Here, K = R2 / R1 + R2
