@@ -61,3 +61,6 @@ Here, R1 and R2 also play a critical role in determining the frequency of the ou
 > Once the capacitor charges to the maximum in a negative direction, the comparator switches the output from negative to positive. Once the output switches to a positive cycle, the capacitor discharges in the negative path and builds up charges in the positive path as shown in the graph.
 
 > So the cycle of capacitor charge and discharge in positive and negative paths triggers the comparator to produce a square wave signal at the output, which is shown above.
+
+---
+
