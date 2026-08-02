@@ -54,7 +54,10 @@ Here, R1 and R2 also play a critical role in determining the frequency of the ou
 
 <img width="401" height="235" alt="image" src="https://github.com/user-attachments/assets/aaa9f272-9e3b-4dd4-a38e-7e6e459f5807" />
 
-Initially, if we consider that the output of the comparator is high, then during this time, the capacitor will be charging. With the charging of the capacitor, its terminal voltage will gradually rise, which can be seen in the graph.
-Once the capacitor terminal voltage reaches the threshold, the comparator output will go from high to low, as shown in the graph. And when the comparator output goes negative, the capacitor starts discharging to zero. After the capacitor completely discharges because of the presence of a negative output voltage, it again charges, except in the opposite direction. As you can see in the graph, because of the negative output voltage, the capacitor voltage also rises in a negative direction.
-Once the capacitor charges to the maximum in a negative direction, the comparator switches the output from negative to positive. Once the output switches to a positive cycle, the capacitor discharges in the negative path and builds up charges in the positive path as shown in the graph.
-So the cycle of capacitor charge and discharge in positive and negative paths triggers the comparator to produce a square wave signal at the output, which is shown above.
+> Initially, if we consider that the output of the comparator is high, then during this time, the capacitor will be charging. With the charging of the capacitor, its terminal voltage will gradually rise, which can be seen in the graph.
+
+> Once the capacitor terminal voltage reaches the threshold, the comparator output will go from high to low, as shown in the graph. And when the comparator output goes negative, the capacitor starts discharging to zero. After the capacitor completely discharges because of the presence of a negative output voltage, it again charges, except in the opposite direction. As you can see in the graph, because of the negative output voltage, the capacitor voltage also rises in a negative direction.
+
+> Once the capacitor charges to the maximum in a negative direction, the comparator switches the output from negative to positive. Once the output switches to a positive cycle, the capacitor discharges in the negative path and builds up charges in the positive path as shown in the graph.
+
+> So the cycle of capacitor charge and discharge in positive and negative paths triggers the comparator to produce a square wave signal at the output, which is shown above.
