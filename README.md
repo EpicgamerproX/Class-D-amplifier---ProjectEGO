@@ -50,7 +50,8 @@ Here, R1 and R2 also play a critical role in determining the frequency of the ou
 ---
 *f = 1 / 2 x R3 x C1 x ln (1 + k / 1 - k)*
 
-*Here, K = R2 / R1 + R2*
+Here, K = R2 / R1 + R2
+
 ---
 
 <img width="401" height="235" alt="image" src="https://github.com/user-attachments/assets/aaa9f272-9e3b-4dd4-a38e-7e6e459f5807" />
