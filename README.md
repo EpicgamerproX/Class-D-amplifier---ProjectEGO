@@ -49,7 +49,7 @@ Here, R1 and R2 also play a critical role in determining the frequency of the ou
 
 ---
 *f = 1 / 2 x R3 x C1 x ln (1 + k / 1 - k)*
----
+
 *Here, K = R2 / R1 + R2*
 ---
 
