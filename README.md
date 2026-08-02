@@ -1,4 +1,4 @@
-# Class-D-amplifier---ProjectEGO
+# Class-D-amplifier : ProjectEGO
 
 ## The individual blocks—oscillator, comparator, MOSFET switching, and LC filter
 
@@ -38,4 +38,7 @@ A relaxation oscillator is a periodic signal generator that produces non-sinusoi
 It must provide a non-sinusoidal waveform (of either voltage or current parameter) at the output.
 It must provide a periodic signal or repetitive signal like a Triangular, Square or Rectangular wave at the output.
 The circuit of a relaxation oscillator must be a nonlinear one. That means the design of the circuit must involve semiconductor devices like a Transistor, MOSFET or OP-AMP.
-The circuit design must also involve an energy-storing device like a Capacitor or Inductor, which charges and discharges continuously to produce a cycle. The frequency or period of oscillation for such an oscillator depends on the time constant of its respective capacitive or inductive circuit. 
+The circuit design must also involve an energy-storing device like a Capacitor or Inductor, which charges and discharges continuously to produce a cycle. The frequency or period of oscillation for such an oscillator depends on the time constant of its respective capacitive or inductive circuit.
+
+<img width="550" height="531" alt="Screenshot 2026-08-02 060935" src="https://github.com/user-attachments/assets/69ec2842-c4e8-490c-b5a8-85b0506e6128" />
+
